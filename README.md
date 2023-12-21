@@ -2,11 +2,12 @@
 
 
 
+
+* 2019   Fellow, The Institution of Electronics & Telecommunication Engineers (MIETE) (F 501509)
+
 * 2019   Senior Member, Institute of Electrical and Electronics Engineers (IEEE) (91152489)
 
 * 2019   Member, The Institution of Engineering and Technology (IET) (MIET 1100765728)
-
-* 2019   Member, The Institution of Electronics & Telecommunication Engineers (MIETE) (M 501509)
 
 * 2019   Associate Member, The Institution of Engineers of India (MIE) (M-1645315)
  
